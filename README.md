@@ -14,6 +14,6 @@ Integrei serviços de backend utilizando Node.js, garantindo escalabilidade e ro
 
 # Contato
 Email: [pedro@horizoncity.com.br]
-GitHub: [github.com/jpcavalcante16]
+GitHub: [github.com/odriftking]
 
 Sempre buscando novos desafios e oportunidades para aprender e crescer, estou pronto para contribuir com minha experiência e habilidades para projetos inovadores e dinâmicos.
